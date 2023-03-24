@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @unhandyman
-- 👀 Among other things I’m interested in workflow improvement in the linux environment.
+<!--- - 👋 Hi, I’m @unhandyman --->
 - 🌱 Currently I'm learning python and am diving into the world of Wayland as an X replacement.
+- 👀 Among other things I’m interested in workflow improvement, especially in the linux environment.
 - 💞️ I’m open to collaborate on projects that help me get better and contribute to the community.
 
 <!---
